@@ -16,25 +16,23 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
   />
 
-  <style>
-    body { font-family: 'Inter'; }
-  </style>
-  <title>AICat - Auth</title>
+  <link rel="stylesheet" href="styles.css" />
+
+  <title>AICat | Auth</title>
 </head>
-<body class="h-screen flex flex-col items-center justify-center bg-gray-50">
-
- <img src="/aicat/logo.png" alt="Logo" class="w-16 h-16" />
-
+<body class="h-screen flex items-center justify-center bg-gray-50">
   <div class="max-w-sm w-full bg-white border border-gray-200 rounded-lg p-8">
-
-    <h2 class="text-2xl font-bold text-center mb-6" style="font-family: 'Montserrat';">Get Started</h2>
+    <h2 class="text-2xl font-black text-center mb-6" style="font-family: 'Montserrat';">Get Started</h2>
     <a
       href="/auth/discord"
+      id="login-button"
       class="flex items-center justify-center w-full space-x-2 px-6 py-3 bg-[#5865F2] hover:bg-opacity-90 text-white text-lg font-medium rounded-md transition duration-150"
     >
       <i class="fab fa-discord" aria-hidden="true"></i>
       <span>Log in with Discord</span>
     </a>
   </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
