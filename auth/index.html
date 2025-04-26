@@ -18,21 +18,18 @@
 
   <link rel="stylesheet" href="styles.css" />
 
-  <title>AICat | Auth</title>
+  <title>AICat - Auth</title>
 </head>
 <body class="h-screen flex items-center justify-center bg-gray-50">
   <div class="max-w-sm w-full bg-white border border-gray-200 rounded-lg p-8">
     <h2 class="text-2xl font-black text-center mb-6" style="font-family: 'Montserrat';">Get Started</h2>
     <a
-      href="/auth/discord"
-      id="login-button"
+      href="https://discord.com/oauth2/authorize?client_id=1365679200752898160&response_type=code&redirect_uri=https%3A%2F%2Fai-cat.web.app%2Fdash&scope=identify+guilds+email+guilds.join"
       class="flex items-center justify-center w-full space-x-2 px-6 py-3 bg-[#5865F2] hover:bg-opacity-90 text-white text-lg font-medium rounded-md transition duration-150"
     >
       <i class="fab fa-discord" aria-hidden="true"></i>
       <span>Log in with Discord</span>
     </a>
   </div>
-
-  <script src="script.js"></script>
 </body>
 </html>
