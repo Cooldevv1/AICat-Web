@@ -1,9 +1,16 @@
-# AICat Repository
-AICat is the leading AI Chatbot for the Roblox game, CatWeb. This chatbot is not endorsed nor made by HumanCat222 or any CatWeb staff and is therefore a community project.
+# AICat Web
 
-This repo is linked to the AICat website and therefore some files are closed source. This is due to many security reasons as we don't want to share API keys or leak user account data. Please help us by contributing to the source code listed here on GitHub.
+### 💎 What's this?
+>This repository houses the web app version of AICat v2. This repository may not include all of our code as we prioritize user privacy and security and don't wish to leak some of our backend, to that effect.
 
-> Created by @cooldevv1 and supported by contributors like you.
+### 💻 Community Run Project
+>AICat is maintained by the community and is not affiliated with HumanCat222 or any other CatWeb developers in any shape or form. Please don't ask CatWeb staff for support with AICat; you may be wasting their time.
 
-Need to contact us? Join the AICat server over on Discord:
-> Discord server link has been removed until public release of v2.
+### 💡 Why choose AICat
+>AICat is CatWeb's leading AI chatbot, and can perform many complex CatWeb related tasks that most other chatbots cannot do. However, AICat is not perfect, so please proceed with caution before using it.
+
+### 📝 Contributions
+>We welcome contributions! Please see CONTRIBUTIONS.md for more information regarding on how to make changes to the AICat codebase, and how to make a pull request.
+
+### 💼 Get Support
+>If you need any help, check out our [Discord server](https://discord.gg/Jt9HWCDhBg), which is a great way to get support from the AICat community!
